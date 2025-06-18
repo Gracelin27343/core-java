@@ -7,7 +7,7 @@ public class AdditionScanner {
 		int a,b,c;
 		
 		Scanner sc;
-        sc=new Scanner(System.in);
+        sc = new Scanner(System.in);
         
         System.out.println("Enter a");
         a=sc.nextInt();

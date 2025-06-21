@@ -13,7 +13,7 @@ public class Student {
 		    
 			System.out.println("Default Constructor");
 		}
-	public Student(int sid, String sname, String scousre) {
+	public Student(int sid, String sname, String scourse) {
 		super();
 		this.Sid = sid;
 		this.Sname = sname;

@@ -1,4 +1,4 @@
-package Demo;
+package day5;
 
 import java.io.BufferedReader;
 import java.io.File;
